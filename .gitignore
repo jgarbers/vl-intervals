@@ -1,5 +1,6 @@
 # My own stuff
-previous_data/
+data_previous/
+data_out/
 
 
 # Byte-compiled / optimized / DLL files
